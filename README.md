@@ -22,7 +22,7 @@ Tools : Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, XGBoost
 
 ## [5. Customer Segmentation on Online Retail Data](https://github.com/ReynaraEzra/Customer-Segmentation) (TBA)
 
-Method : Unsupervised Learning, Exploratory Data Analysis, RFM (Recency, Frequency, Monetary), K-Means Clustering </br>
+Method : Unsupervised Learning, Exploratory Data Analysis, RFM (Recency, Frequency, Monetary) Analysis, K-Means Clustering </br>
 Tools : Pandas, Numpy, Matplotlib, Scikit-Learn
   
  
