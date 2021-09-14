@@ -1,11 +1,14 @@
-# Data Science Project
-<div>
-1. Car Price Prediction | Dataset : https://www.kaggle.com/goyalshalini93/car-price-prediction-linear-regression-rfe
-<div>
-2. Text Classification | Dataset : https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp
-<div>
-3. Image Classification | Dataset : https://dicodingacademy.blob.core.windows.net/picodiploma/ml_pengembangan_academy/Chessman-image-dataset.zip
-<div>
-4. Iris Classification | Dataset : https://www.kaggle.com/uciml/iris
-<div>
-5. 
+# Content Data Science Project
+
+## [1. Image Classification on Rock, Paper, Scissors Game and Chess Using Tensorflow](https://github.com/ReynaraEzra/Image-Classification-Tensorflow) 
+
+## [2. Text Classification on Sentences Using Tensorflow](https://github.com/ReynaraEzra/NLP-Tensorflow)
+
+## [3. Machine Learning Time Series Data Using Tensorflow](https://github.com/ReynaraEzra/Machine-Learning-Time-Series)
+
+## [4. Predict Earthquake Damage to Building in Nepal](https://github.com/ReynaraEzra/Richter-Earthquake-Prediction)
+
+## [5. Customer Segmentation on Online Retail Data](https://github.com/ReynaraEzra/Customer-Segmentation)
+  
+ 
+
