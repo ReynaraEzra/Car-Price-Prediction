@@ -17,7 +17,7 @@ Tools : Pandas, Numpy, Matplotlib, Scikit-Learn, Tensorflow, Keras
 
 ## [4. Predict Earthquake Damage to Building in Nepal](https://github.com/ReynaraEzra/Richter-Earthquake-Prediction)
 
-Method : Supervised Learning, Exploratory Data Analysis, Feature Selection, Preprocessing, Cross Validation, Hyperparameter Tuning </br>
+Method : Supervised Learning, Exploratory Data Analysis, Feature Selection, Data Preprocessing, Cross Validation, Hyperparameter Tuning </br>
 Tools : Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, XGBoost
 
 ## [5. Customer Segmentation on Online Retail Data](https://github.com/ReynaraEzra/Customer-Segmentation) (TBA)
