@@ -24,6 +24,3 @@ Tools : Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, XGBoost
 
 Method : Unsupervised Learning, Exploratory Data Analysis, RFM (Recency, Frequency, Monetary) Analysis, K-Means Clustering </br>
 Tools : Pandas, Numpy, Matplotlib, Scikit-Learn
-  
- 
-
