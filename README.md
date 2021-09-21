@@ -24,3 +24,8 @@ Tools : Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, XGBoost
 
 Method : Unsupervised Learning, Exploratory Data Analysis, RFM (Recency, Frequency, Monetary) Analysis, K-Means Clustering </br>
 Tools : Pandas, Numpy, Matplotlib, Scikit-Learn
+
+## [6. Employer Review Prediction](https://github.com/ReynaraEzra/Employer-Review) (TBA)
+
+Method : Supervised Learning, Exploratory Data Analysis, Tokenizer, Long Short Term Memory (LSTM)
+Tools : Pandas, Numpy, Matplotlib, Scikit-Learn, Tensorflow, Keras
