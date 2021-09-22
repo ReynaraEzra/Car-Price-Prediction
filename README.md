@@ -20,12 +20,12 @@ Tools : Pandas, Numpy, Matplotlib, Scikit-Learn, Tensorflow, Keras
 Method : Supervised Learning, Exploratory Data Analysis, Feature Selection, Data Preprocessing, Cross Validation, Hyperparameter Tuning </br>
 Tools : Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, XGBoost
 
-## [5. Customer Segmentation on Online Retail Data](https://github.com/ReynaraEzra/Customer-Segmentation) (On Progress)
+## [5. Customer Segmentation on Online Retail Data](https://github.com/ReynaraEzra/Customer-Segmentation)
 
 Method : Unsupervised Learning, Exploratory Data Analysis, RFM (Recency, Frequency, Monetary) Analysis, K-Means Clustering </br>
 Tools : Pandas, Numpy, Matplotlib, Scikit-Learn
 
-## [6. Employer Review Prediction](https://github.com/ReynaraEzra/Employer-Review) (Soon)
+## [6. Employer Review Prediction](https://github.com/ReynaraEzra/Employer-Review) (On Progress)
 
 Method : Supervised Learning, Exploratory Data Analysis </br>
 Tools : (TBA)
