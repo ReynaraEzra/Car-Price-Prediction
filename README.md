@@ -27,10 +27,10 @@ Tools : Pandas, Numpy, Matplotlib, Scikit-Learn
 
 ## [6. Employer Review Prediction](https://github.com/ReynaraEzra/Employer-Review) (Soon)
 
-Method : Supervised Learning, Exploratory Data Analysis, Tokenizer, Long Short Term Memory (LSTM) </br>
-Tools : Pandas, Numpy, Matplotlib, Scikit-Learn, Tensorflow, Keras
+Method : Supervised Learning, Exploratory Data Analysis </br>
+Tools : (TBA)
 
 ## [7. Traffic Flow Prediction](https://github.com/ReynaraEzra/Jasamarga-Project) (Soon)
 
 Method : Time Series </br>
-Tools : Pandas, Numpy, Matplotlib, Scikit-Learn, Tensorflow, Keras
+Tools : (TBA)
