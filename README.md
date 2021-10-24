@@ -32,5 +32,5 @@ Tools : Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Regular Expression, Na
 
 ## [7. Traffic Flow Prediction](https://github.com/ReynaraEzra/Jasamarga-Project) (Soon)
 
-Method : Time Series, Exploratory Data Analysis, Forecasting (Prophet, LSTM) </br>
-Tools : Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Tensorflow, Fbprophet
+Method : Time Series, Exploratory Data Analysis, Forecasting (Prophet) </br>
+Tools : Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Fbprophet
