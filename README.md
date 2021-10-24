@@ -1,4 +1,5 @@
 # Content Data Science Project
+![ViewCount](https://views.whatilearened.today/views/github/ReynaraEzra/Data-Science-Project.svg?cache=remove)
 
 ## [1. Image Classification on Rock, Paper, Scissors Game and Chess Using Tensorflow](https://github.com/ReynaraEzra/Image-Classification-Tensorflow)
 
