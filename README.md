@@ -36,7 +36,7 @@ Tools : Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Regular Expression, Na
 Method : Time Series, Exploratory Data Analysis, Forecasting (Prophet) </br>
 Tools : Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Fbprophet
 
-## [8. Liveness Detection](https://github.com/ReynaraEzra/Liveness-Detection)
+## [8. Liveness Detection](https://github.com/ReynaraEzra/Liveness-Detection) (On Progress) 
 
-Method : ImageDataGenerator, Convolutional Neural Network (CNN) (On Progress) </br> 
+Method : ImageDataGenerator, Convolutional Neural Network (CNN) </br> 
 Tools : Scikit-Learn, Tensorflow, Keras
