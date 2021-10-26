@@ -31,7 +31,12 @@ Tools : Pandas, Numpy, Matplotlib, Scikit-Learn
 Method : Supervised Learning, Exploratory Data Analysis, Feature Extraction, Cross Validation, Stemming, Tokenizer, Long Short Term Memory (LSTM), Callback </br>
 Tools : Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Regular Expression, Natural Language Toolkit (NLTK), Tensorflow, Keras
 
-## [7. Traffic Flow Prediction](https://github.com/ReynaraEzra/Jasamarga-Project) (Soon)
+## [7. Traffic Flow Prediction](https://github.com/ReynaraEzra/Jasamarga-Project) (Pending)
 
 Method : Time Series, Exploratory Data Analysis, Forecasting (Prophet) </br>
 Tools : Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Fbprophet
+
+## [8. Liveness Detection](https://github.com/ReynaraEzra/Liveness-Detection)
+
+Method : ImageDataGenerator, Convolutional Neural Network (CNN)
+Tools : Scikit-Learn, Tensorflow, Keras
