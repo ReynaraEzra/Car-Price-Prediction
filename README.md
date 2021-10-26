@@ -38,5 +38,5 @@ Tools : Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Fbprophet
 
 ## [8. Liveness Detection](https://github.com/ReynaraEzra/Liveness-Detection)
 
-Method : ImageDataGenerator, Convolutional Neural Network (CNN)
+Method : ImageDataGenerator, Convolutional Neural Network (CNN) (On Progress) </br> 
 Tools : Scikit-Learn, Tensorflow, Keras
