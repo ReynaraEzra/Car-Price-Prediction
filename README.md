@@ -41,7 +41,9 @@ Tools : Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Fbprophet
 Method : ImageDataGenerator, Convolutional Neural Network (CNN) </br> 
 Tools : Scikit-Learn, Tensorflow, Keras
 
-## [9. Fake News Detection](https://github.com/ReynaraEzra/Fake-News-Detection) (On Progress)
+## [9. Fake News Detection](https://github.com/ReynaraEzra/Fake-News-Detection)
 
 Method : Supervised Learning, Exploratory Data Analysis (EDA), Cross Validation, Lemmatization, Tokenizer, Bidirectional Long Short Term Memory (BiLSTM) </br>
 Tools : Pandas, Numpy, Seaborn, Scikit Learn, Regular Expression, Natural Language Toolkit (NLTK), Tensorflow, Keras
+
+##
