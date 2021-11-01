@@ -52,5 +52,5 @@ Method : ImageDataGenerator, Convolutional Neural Network (CNN) </br>
 Tools : Scikit-Learn, Tensorflow, Keras
 
 ## [11. Speech Recognition]() (Soon) 
-Method : TBA
-Tools : SpeechRecognition, PyAudio, Google API
+Method : TBA </br>
+Tools : SpeechRecognition, PyAudio, gTTS, Google API
