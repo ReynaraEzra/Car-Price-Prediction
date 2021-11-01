@@ -46,4 +46,11 @@ Tools : Scikit-Learn, Tensorflow, Keras
 Method : Supervised Learning, Exploratory Data Analysis (EDA), Cross Validation, Lemmatization, Tokenizer, Bidirectional Long Short Term Memory (BiLSTM) </br>
 Tools : Pandas, Numpy, Seaborn, Scikit Learn, Regular Expression, Natural Language Toolkit (NLTK), Tensorflow, Keras
 
-##
+## [10. Hand Sign Detection](https://github.com/ReynaraEzra/Hand-Sign-Detection) (On Progress) 
+
+Method : ImageDataGenerator, Convolutional Neural Network (CNN) </br> 
+Tools : Scikit-Learn, Tensorflow, Keras
+
+## [11. Speech Recognition]() (Soon) 
+Method : TBA
+Tools : SpeechRecognition, PyAudio, Google API
