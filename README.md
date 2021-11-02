@@ -51,6 +51,6 @@ Tools : Pandas, Numpy, Seaborn, Scikit Learn, Regular Expression, Natural Langua
 Method : ImageDataGenerator, Convolutional Neural Network (CNN) </br> 
 Tools : Scikit-Learn, Tensorflow, Keras
 
-## [11. Speech Recognition]() (Soon) 
+## [11. Speech Recognition]() (On Progress) 
 Method : TBA </br>
 Tools : SpeechRecognition, PyAudio, gTTS, Google API
