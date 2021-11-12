@@ -36,7 +36,7 @@ Tools : Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Regular Expression, Na
 Method : Time Series, Exploratory Data Analysis, Forecasting (Prophet) </br>
 Tools : Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Fbprophet
 
-## [8. Liveness Detection](https://github.com/ReynaraEzra/Liveness-Detection) (On Progress) 
+## [8. Liveness Detection](https://github.com/ReynaraEzra/Liveness-Detection)
 
 Method : ImageDataGenerator, Convolutional Neural Network (CNN) </br> 
 Tools : Scikit-Learn, Tensorflow, Keras
@@ -46,7 +46,7 @@ Tools : Scikit-Learn, Tensorflow, Keras
 Method : Supervised Learning, Exploratory Data Analysis (EDA), Cross Validation, Lemmatization, Tokenizer, Bidirectional Long Short Term Memory (BiLSTM) </br>
 Tools : Pandas, Numpy, Seaborn, Scikit Learn, Regular Expression, Natural Language Toolkit (NLTK), Tensorflow, Keras
 
-## [10. Hand Sign Detection](https://github.com/ReynaraEzra/Hand-Sign-Detection) (On Progress) 
+## [10. Hand Sign Detection](https://github.com/ReynaraEzra/Hand-Sign-Detection)
 
 Method : ImageDataGenerator, Convolutional Neural Network (CNN) </br> 
 Tools : Scikit-Learn, Tensorflow, Keras
