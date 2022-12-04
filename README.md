@@ -54,3 +54,7 @@ Tools : Scikit-Learn, Tensorflow, Keras
 ## [11. Speech Recognition]() (On Progress) 
 Method : TBA </br>
 Tools : SpeechRecognition, PyAudio, gTTS, Google API
+
+## [12. Chess Engine]() (On Progress) 
+Method : TBA </br>
+Tools : Python, Pygame
