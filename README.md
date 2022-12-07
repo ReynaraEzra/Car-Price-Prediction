@@ -1,4 +1,4 @@
-# Content Data Science Project
+# Content Artificial Intelligence Project
 ![ViewCount](https://views.whatilearened.today/views/github/ReynaraEzra/Data-Science-Project.svg?cache=remove)
 
 ## [1. Image Classification on Rock, Paper, Scissors Game and Chess Using Tensorflow](https://github.com/ReynaraEzra/Image-Classification-Tensorflow)
@@ -55,6 +55,6 @@ Tools : Scikit-Learn, Tensorflow, Keras
 Method : TBA </br>
 Tools : SpeechRecognition, PyAudio, gTTS, Google API
 
-## [12. Chess Engine]() (On Progress) 
-Method : TBA </br>
+## [12. Chess Engine]()
+Method : -
 Tools : Python, Pygame
