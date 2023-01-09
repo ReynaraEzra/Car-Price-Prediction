@@ -55,6 +55,6 @@ Tools : Scikit-Learn, Tensorflow, Keras
 Method : TBA </br>
 Tools : SpeechRecognition, PyAudio, gTTS, Google API
 
-## [12. Chess Engine]()
+## [12. Chess Engine](https://github.com/ReynaraEzra/chess-engine)
 Method : -
 Tools : Python, Pygame
